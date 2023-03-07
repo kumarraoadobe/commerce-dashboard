@@ -1,4 +1,4 @@
-# [Commerce Dashboard 2 Laravel - Free](https://www.creative-tim.com/product/argon-dashboard-laravel)
+# [Commerce Dashboard Laravel]
 
 ![version](https://img.shields.io/badge/version-3.0.0-blue.svg) 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
